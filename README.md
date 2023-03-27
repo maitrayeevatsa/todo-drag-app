@@ -5,3 +5,12 @@ The user should be able to drag these lists individually, and place them anywher
 app in react(front end) + node js(back end)
 
 ![image](https://user-images.githubusercontent.com/68434001/228026207-0d31d149-d27b-4e34-9a35-deebe5b5e4bb.png)
+
+
+now dragging drink water to 4th number
+![image](https://user-images.githubusercontent.com/68434001/228029882-e3c4fb46-d3b1-46db-8abb-cf8e9785afc2.png)
+
+
+![image](https://user-images.githubusercontent.com/68434001/228029974-fe102778-4b34-444e-9741-2c73424ff457.png)
+
+
