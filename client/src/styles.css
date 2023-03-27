@@ -1,0 +1,24 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  li {
+    margin: 10px;
+  }
+  .not-selected_1 {
+    background-color: lightgray;
+    width: 150px;
+  }
+  .selected_1 {
+    background-color: red;
+    width: 150px;
+  }
+  .not-selected_2 {
+    background-color: lightgray;
+    width: 150px;
+  }
+  .selected_2 {
+    background-color: red;
+    width: 150px;
+  }
+  
